@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Dictionary</string>
+    <string name="placeholder">Type Word</string>
+    <string name="translate">Translate</string>
+</resources>
